@@ -1,5 +1,12 @@
-wiki_title = 'Hiệp hội các quốc gia Đông Nam Á'
-
-
-def download_wiki(wiki_title):
+def download_wiki(title):
     pass
+
+
+def download_wikidata(title):
+    pass
+
+
+title = 'Việt_Nam'
+download_wiki(title)
+
+download_wikidata(title)
